@@ -1,0 +1,33 @@
+ls -> Vê todas as pastas
+
+pwd -> vê a pasta que você está
+
+clear -> limpa o terminal
+
+cd Desktop/ -> entra em uma pasta
+cd .. -> volta uma pasta
+cd -> volta todas as pastas
+
+mkdir nome_pasta -> cria uma pasta
+rmdir nome_pasta -> exclui a pasta
+
+mv nome_pasta novo_nome -> renomeia um arquivo
+
+git config --global user.name "DanielSantos" -> No cmd Cria uma variavel de username no pc
+git config --global user.email "email@hotmail.com" -> No cmd cria um variavel de email no pc
+
+_________________IMPORTANTE________________________
+
+git init -> inicia repositorio na pasta do arquivo
+
+git status -> vê as pastas que não subiram e vice versa
+
+git add . -> sobe todos os arquivos na pasta
+git add -A -> sobe todos os arquivos na pasta
+git add nomePasta -> sobe uma pasta/arquivo
+
+git branch -m nome_branch -> cria uma nova branch
+git checkout nome_branch -> muda de branch
+git commit -m "nome_commit" -> cria um novo commit
+
+git log -> vê todos os commits
